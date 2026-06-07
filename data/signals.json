@@ -1,0 +1,30 @@
+{
+  "name": "Genesys FirstUp Service Outage Briefing Room",
+  "slug": "genesys-firstup-service-outage-briefing-room",
+  "platforms": [
+    "Genesys",
+    "FirstUp"
+  ],
+  "topics": [
+    "genesys",
+    "firstup",
+    "service-outage",
+    "workforce-comms",
+    "executive-briefing",
+    "kinetic-gain"
+  ],
+  "signals": [
+    {
+      "lane": "exposure",
+      "score": 72
+    },
+    {
+      "lane": "savings",
+      "score": 61
+    },
+    {
+      "lane": "investment",
+      "score": 66
+    }
+  ]
+}

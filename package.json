@@ -1,0 +1,10 @@
+{
+  "name": "genesys-firstup-service-outage-briefing-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Service outage briefing room tying Genesys demand spikes to FirstUp internal communication coverage.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
